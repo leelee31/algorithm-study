@@ -3,7 +3,7 @@
 :boom: 충격 스터디 1회차 완주자 실존 :boom:  
 [이수민](https://github.com/leelee31), [박지현](https://github.com/jyhynn)
 
-:boom: 스터디 2회차 완주~ :boom:
+:boom: 스터디 2회차 완주 :boom:  
 [김다솜](https://github.com/ttony-kim), [박지현](https://github.com/jyhynn), [이수민](https://github.com/leelee31)
 
 
