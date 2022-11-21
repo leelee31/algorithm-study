@@ -3,7 +3,7 @@
 :boom: 충격 스터디 1회차 완주자 실존 :boom:  
 [이수민](https://github.com/leelee31), [박지현](https://github.com/jyhynn)
 
-스터디 2회차 진행 중  
+:boom: 스터디 2회차 완주~ :boom:
 [김다솜](https://github.com/ttony-kim), [박지현](https://github.com/jyhynn), [이수민](https://github.com/leelee31)
 
 
@@ -40,6 +40,6 @@
 # 일정
 - 1회차 (2/5 ~ 3/4)
   * programmers, boj 문제 월~금 매일 풀이
-- 2회차 (6/13 ~
+- 2회차 (6/13 ~ 8/4)
   * 매주 공통 문제 하나 정하여 풀이, 더 푸는 건 본인 자유
   * Zoom 화면 공유하며 풀이 설명
